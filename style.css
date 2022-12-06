@@ -1,0 +1,52 @@
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:aqua;
+}
+
+._h2{
+    font-family: 'Indie Flower', sans-serif;
+    color:white;
+    background-color: blue;
+    font-size: 28px;
+    text-align: center;
+    box-shadow: 3px 2px 3px 2px white;                   
+}
+
+.ifsm{
+    background-color: darkgreen;
+    text-align: center;
+    border-radius: 6px;
+}
+
+.prof{
+    background-color:darkslategray;
+    text-align: center;
+    border-radius: 6px;
+}
+
+.curso{
+    background-color:chocolate;
+    text-align: center;
+    border-radius: 6px;
+} 
+
+video{
+    border-radius: 8px;
+} 
+
+.navegacao{
+    list-style-type:none;
+    align-items:center;
+}
+
+table{
+    width:100%; 
+    text-align:center;
+    align-items:center;
+}
